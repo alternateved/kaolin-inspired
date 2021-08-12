@@ -1,0 +1,37 @@
+! Colorscheme based on kaolin-dark theme (https://github.com/ogdenwebb/emacs-kaolin-themes)
+
+*.foreground: #E4E4E8
+*.background: #18181B
+*.cursorColor: #E4E4E8
+
+ ! Black
+ *.color0: #4B5254
+ *.color8: #879193
+
+ ! Red
+ *.color1: #CD5C60
+ *.color9: #C93237
+
+ ! Green
+ *.color2: #6FB593
+ *.color10: #35BF88
+
+ ! Yellow
+ *.color3: #EED891
+ *.color11: #DBAC66
+
+ ! Blue
+ *.color4: #91B9C7
+ *.color12: #3B84CC
+
+ ! Magenta
+ *.color5: #845A84
+ *.color13: #D24B83
+
+ ! Cyan
+ *.color6: #4D9391
+ *.color14: #68F3CA
+
+ ! White
+ *.color7: #E4E4E8
+ *.color15: #EFEFF1
