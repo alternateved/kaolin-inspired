@@ -2,4 +2,4 @@
 
 Themes for different applications inspired by beautiful kaolin colorscheme for Doom Emacs available in [emacs-kaolin-themes](https://github.com/ogdenwebb/emacs-kaolin-themes) repository.
 
-![2021-08-12_14-10_1](https://user-images.githubusercontent.com/45176912/129194454-a84061d6-1f11-4d44-b6b5-aeb6aa7ab781.png)
+![2021-08-17_18-33](https://user-images.githubusercontent.com/45176912/129765242-c1875b95-8d57-4b9c-8122-5f643c9fb1da.png)
