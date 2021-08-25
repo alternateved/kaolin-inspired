@@ -18,7 +18,7 @@ base0B = "#6FB593"
 base0C = "#4D9391"
 base0D = "#91B9C7"
 base0E = "#845A84"
-base0F = "#C93237"
+base0F = "#c86d6d"
 
 # set qutebrowser colors
 

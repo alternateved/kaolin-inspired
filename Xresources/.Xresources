@@ -10,11 +10,11 @@
 
  ! Red
  *.color1: #CD5C60
- *.color9: #C93237
+ *.color9: #c86d6d
 
  ! Green
  *.color2: #6FB593
- *.color10: #35BF88
+ *.color10: #90aea1
 
  ! Yellow
  *.color3: #DBAC66
@@ -22,15 +22,15 @@
 
  ! Blue
  *.color4: #91B9C7
- *.color12: #3B84CC
+ *.color12: #C6D5E8
 
  ! Magenta
  *.color5: #845A84
- *.color13: #D24B83
+ *.color13: #ab98b5
 
  ! Cyan
  *.color6: #4D9391
- *.color14: #68F3CA
+ *.color14: #65a0a1
 
  ! White
  *.color7: #E4E4E8
