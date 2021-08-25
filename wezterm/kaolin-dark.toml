@@ -1,0 +1,14 @@
+# Colorscheme based on kaolin-dark theme (https://github.com/ogdenwebb/emacs-kaolin-themes)
+[colors]
+background = "#18181B"
+foreground = "#E4E4E8"
+
+cursor_bg = "#E4E4E8"
+cursor_fg = "#18181B"
+cursor_border = "#E4E4E8"
+
+selection_bg = "E4E4E8"
+selection_fg = "#18181B"
+
+ansi = ["#4B5254", "#CD5C60", "#6FB593", "#DBAC66", "#91B9C7", "#845A84", "#4D9391", "#E4E4E8"]
+brights = ["#879193", "#c86d6d", "#90aea1", "#EED891", "#C6D5E8", "#ab98b5", "#65a0a1", "#EFEFF1"]
