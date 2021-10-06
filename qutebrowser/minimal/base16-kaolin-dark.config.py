@@ -13,12 +13,12 @@ base06 = "#d0d0d4"
 base07 = "#E4E4E8"
 base08 = "#CD5C60"
 base09 = "#DBAC66"
-base0A = "#EED891"
+base0A = "#F2C866"
 base0B = "#6FB593"
 base0C = "#4D9391"
 base0D = "#91B9C7"
 base0E = "#845A84"
-base0F = "#C93237"
+base0F = "#E36D5B"
 
 # set qutebrowser colors
 

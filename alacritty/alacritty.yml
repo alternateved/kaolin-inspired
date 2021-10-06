@@ -17,10 +17,10 @@ colors:
 
   bright:
     black:    '#879193',
-    red:      '#c86d6d',
-    green:    '#90aea1',
-    yellow:   '#dbb68f',
-    blue:     '#C6D5E8',
-    magenta:  '#ab98b5',
-    cyan:     '#65a0a1',
+    red:      '#E36D5B',
+    green:    '#72CCBA',
+    yellow:   '#F2C866',
+    blue:     '#97B8DE',
+    magenta:  '#8C629C',
+    cyan:     '#5096AB',
     white:    '#EFEFF1',
