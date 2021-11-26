@@ -8,4 +8,8 @@ Themes for different applications inspired by beautiful kaolin colorscheme for D
 
 ## Kaolin light
 
+![2021-11-26_20-29](https://user-images.githubusercontent.com/45176912/143623823-c2772bfc-fcc3-4fad-ad9c-5e159452fd5d.png)
+
+## Kaolin aurora
+
 TBD
