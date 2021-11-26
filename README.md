@@ -4,7 +4,7 @@ Themes for different applications inspired by beautiful kaolin colorscheme for D
 
 ## Kaolin dark
 
-![2021-10-28_10-36](https://user-images.githubusercontent.com/45176912/139219314-d59de0ee-3ebb-4157-9558-93d5661cb74c.png)
+![2021-11-26_20-34](https://user-images.githubusercontent.com/45176912/143624060-472a5925-0718-46ce-bc25-44f64f496786.png)
 
 ## Kaolin light
 
