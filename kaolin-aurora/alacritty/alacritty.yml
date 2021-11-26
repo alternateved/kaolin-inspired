@@ -1,0 +1,26 @@
+# Colorscheme based on kaolin-aurora theme (https://github.com/ogdenwebb/emacs-kaolin-themes)
+
+colors:
+  primary:
+    background: '#14191e'
+    foreground: '#e6e6e8'
+
+  normal:
+    black:    '#14191e'
+    red:      '#e55c7a'
+    green:    '#31E183'
+    yellow:   '#f5c791'
+    blue:     '#4ca6e8'
+    magenta:  '#9d81ba'
+    cyan:     '#49bdb0'
+    white:    '#e6e6e8'
+
+  bright:
+    black:    '#454459',
+    red:      '#cd5c60',
+    green:    '#7CF083',
+    yellow:   '#dbac66',
+    blue:     '#91b9c7',
+    magenta:  '#6E6884',
+    cyan:     '#0D9C94',
+    white:    '#f2f2f2',

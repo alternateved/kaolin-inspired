@@ -1,0 +1,26 @@
+# Colorscheme based on kaolin-light theme (https://github.com/ogdenwebb/emacs-kaolin-themes)
+
+colors:
+  primary:
+    background: '#EDEEEB'
+    foreground: '#353b3c'
+
+  normal:
+    black:    '#353b3c'
+    red:      '#e84c58'
+    green:    '#13665F'
+    yellow:   '#E36B3F'
+    blue:     '#3B84CC'
+    magenta:  '#a9779c'
+    cyan:     '#6facb3'
+    white:    '#C8CCC3'
+
+  bright:
+    black:    '#4b5254',
+    red:      '#e84c58',
+    green:    '#317A56',
+    yellow:   '#C5882C',
+    blue:     '#4C7A90',
+    magenta:  '#6D46E3',
+    cyan:     '#008b8b',
+    white:    '#f5f6f5',
