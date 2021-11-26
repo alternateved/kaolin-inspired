@@ -12,4 +12,5 @@ Themes for different applications inspired by beautiful kaolin colorscheme for D
 
 ## Kaolin aurora
 
-TBD
+![2021-11-26_20-32](https://user-images.githubusercontent.com/45176912/143623894-4d328064-ed70-4fad-969c-429d4bb97c5f.png)
+
