@@ -1,13 +1,6 @@
 # Kaolin themes
 
-Themes for different applications inspired by beautiful kaolin colorscheme for Doom Emacs available in [emacs-kaolin-themes](https://github.com/ogdenwebb/emacs-kaolin-themes) repository.
-
-Available ports:
-- alacritty
-- kitty
-- qutebrowser
-- wezterm
-- Xresources
+Themes for different applications inspired by beautiful Kaolin themes for GNU Emacs available in [emacs-kaolin-themes](https://github.com/ogdenwebb/emacs-kaolin-themes) repository.
 
 ## Kaolin dark
 
@@ -20,4 +13,3 @@ Available ports:
 ## Kaolin aurora
 
 ![2021-11-26_20-32](https://user-images.githubusercontent.com/45176912/143623894-4d328064-ed70-4fad-969c-429d4bb97c5f.png)
-
