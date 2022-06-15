@@ -3,8 +3,8 @@
 background = "#14171e"
 foreground = "#e4e4e8"
 
-cursor_bg = "#41b0f3" # blue
-# cursor_bg = "#e4e4e8" # white
+cursor_bg = "#e4e4e8" # white
+# cursor_bg = "#41b0f3" # blue
 cursor_fg = "#0c0d12"
 cursor_border = "#e4e4e8"
 
